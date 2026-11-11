@@ -32,6 +32,8 @@ if (!-f $request_filename){
 }
 ```
 
+最后，在Typecho后台，有个管理，可以看到需要**监控**的定时任务（因为PHP的原因，需要自己添加定时任务）
+
 同款Vue版本：[朋友圈Vue版](https://github.com/mytinfeng/yike-moments)
 
 完成~
