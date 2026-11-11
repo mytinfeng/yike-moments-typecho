@@ -3,8 +3,8 @@ typecho版本的朋友圈
 
 ## 使用教程
 安装Typecho
-下载插件:[](https://github.com/mytinfeng/yike-moments-typecho/releases/download/v1.0.0/YikeMoments-plugin.zip)
-下载主题:[](https://github.com/mytinfeng/yike-moments-typecho/releases/download/v1.0.0/yike-moments-theme.zip)
+下载插件:[朋友圈-插件包](https://github.com/mytinfeng/yike-moments-typecho/releases/download/v1.0.0/YikeMoments-plugin.zip)
+下载主题:[朋友圈-主题包](https://github.com/mytinfeng/yike-moments-typecho/releases/download/v1.0.0/yike-moments-theme.zip)
 
 先：启动插件
 后：启动主题
