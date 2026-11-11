@@ -21,6 +21,6 @@ if (!-f $request_filename){
 }
 ```
 
-同款Vue版本：
+同款Vue版本：[朋友圈Vue版](https://github.com/mytinfeng/yike-moments)
 
 完成~
